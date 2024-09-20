@@ -1,2 +1,9 @@
 # ML-Projects
-Contains Various ML based Projects
+Description of the Projects:
+1. Amazon Sales Analysis : This Project basically analysis the monthly and yearly sales of a product and also the profit earned during this time period.
+2. Chronic Disease Prediction : This Project tells us whether a person is suffering from a chronic disease or not based on his/her medical reports.
+3. Iris Flower Classification : This Project tells us the category of the Iris flower, if provided with the sepal and petal, width and length.
+4. World Happiness : This Project analysis various factors like Birth rate, GDP, life expectancy, generosity, etc. to determine the level of happiness in various countries.
+5. Life Expectancy : This Project depicts the relationship between various factors that helps in determining the life expectancy of people today.
+
+Data Cleaning and EDA ( Exploratory Data Analysis ) has been done for all of the above projects for better understanding.
