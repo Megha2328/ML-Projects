@@ -5,5 +5,6 @@ Description of the Projects:
 3. Iris Flower Classification : This Project tells us the category of the Iris flower, if provided with the sepal and petal, width and length.
 4. World Happiness : This Project analysis various factors like Birth rate, GDP, life expectancy, generosity, etc. to determine the level of happiness in various countries.
 5. Life Expectancy : This Project depicts the relationship between various factors that helps in determining the life expectancy of people today.
-
+6. Weather Forecasting : This Project determines which model would be the best fit for our given dataset to help in weather forecasting.
+   
 Data Cleaning and EDA ( Exploratory Data Analysis ) has been done for all of the above projects for better understanding.
