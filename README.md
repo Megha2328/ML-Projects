@@ -7,5 +7,6 @@ Description of the Projects:
 5. Life Expectancy : This Project depicts the relationship between various factors that helps in determining the life expectancy of people today.
 6. Weather Forecasting : This Project determines which model would be the best fit for our given dataset to help in weather forecasting.
 7. House Price Prediction : This Project helps in calculating the house price considering various factors like total no. of rooms, total no. of bedrooms,ocean proximity, etc.
+8. Accidents Prediction : This project predicts the aviation accidents. 3 ensemble based models have been compared using accuracy score, classification matrix, f1-score and recall.
    
 Data Cleaning and EDA ( Exploratory Data Analysis ) has been done for all of the above projects for better understanding.
