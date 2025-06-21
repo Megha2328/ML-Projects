@@ -9,5 +9,6 @@ Description of the Projects:
 7. House Price Prediction : This Project helps in calculating the house price considering various factors like total no. of rooms, total no. of bedrooms,ocean proximity, etc.
 8. Accidents Prediction : This project predicts the aviation accidents. 3 ensemble based models have been compared using accuracy score, confusion matrix, f1-score and recall.
 9. Stock Market Prediction : In this project we are making predictions about the stock prices based on previous available data.
+10. Credit Card Fraud Detection : Here we have tested the accuracy of multiple models to check which one would preform the best for the given problem statement.
    
 Data Cleaning and EDA ( Exploratory Data Analysis ) has been done for all of the above projects for better understanding.
